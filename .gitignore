@@ -38,6 +38,7 @@ modules.builtin
 Module.symvers
 *.dwo
 *.su
+out
 
 #
 # Top-level generic files
@@ -117,5 +118,3 @@ all.config
 # fetched Android config fragments
 android/configs/android-*.cfg
 
-tests
-configs
